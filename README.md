@@ -38,7 +38,7 @@
         <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
     </tr>
     <tr>
-        <td colspan="2">FECHA DE PRESENTACIÓN:</td><td>08-May-2022</td><td colspan="2">HORA DE PRESENTACIÓN:</td><td></td>
+        <td colspan="2">FECHA DE PRESENTACIÓN:</td><td>10-May-2022</td><td colspan="2">HORA DE PRESENTACIÓN: 9pm</td><td></td>
     </tr>
     <tr>
         <td colspan="3">INTEGRANTES:
@@ -71,7 +71,15 @@
             <ol>
                 <li>Umasi Cariapaza, Carlos Daniel<br>https://github.com/cumasic/Lab-EDA</li>
             </ol>
-            Repositorio general<br><br><br>
+            Repositorio general<br>
+            <ol>
+                https://github.com/cumasic/G-Lab-EDA 
+            </ol>
+            Imagenes de Prueba:<br>
+            Carpeta JavaTutorial<br>
+            <img src="JavaTutorial.png" atl="Ejemplos de java tutorial"> <br><br>
+            Carpeta JavaMethods<br>
+            <img src="JavaMethods.png" atl="Ejemplos de java métodos"> <br><br>
             </td>
         </tr>
         <tr>
